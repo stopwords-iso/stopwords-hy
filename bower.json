@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-hy",
+  "description": "The most comprehensive collection of stopwords for the armenian language.",
+  "keywords": [
+    "armenian",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-hy",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-hy.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
